@@ -69,7 +69,7 @@ Official contact:
 The official website, repository, documentation portal, and other official channels will be added here when available.
 
 - Website: TBA
-- GitHub: TBA
+- GitHub: https://github.com/ezraglobalprima/Ezra-Management-X
 - Telegram Channel: TBA
 - Telegram: @xrejax
 
