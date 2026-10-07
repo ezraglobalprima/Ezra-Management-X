@@ -20,7 +20,7 @@
 
 <div align="center">
 
-<img src="assets/ezra-management-x-logo.png" alt="Ezra Management X Logo" width="380">
+<img src="assets/ezra-management-x-logo.png" alt="Ezra Management X Logo" width="620">
 
 </div>
 
